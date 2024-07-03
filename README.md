@@ -20,7 +20,7 @@ You can see a live demo of this project at: https://web-image-editor.glitch.me/
 
 
 
-git clone https://github.com/yourusername/image-processing-toolkit.git
+git clone https://github.com/tejas36026/multiplees.git
 cd image-processing-toolkit
 Copy
 2. Install dependencies:
