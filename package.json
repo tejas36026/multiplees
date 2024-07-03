@@ -1,0 +1,19 @@
+{
+  "name": "image-processing-toolkit",
+  "version": "1.0.0",
+  "description": "A toolkit for applying various effects to images",
+  "main": "src/index.js",
+  "scripts": {
+    "start": "node server.js",
+    "test": "jest"
+  },
+  "keywords": ["image", "processing", "effects"],
+  "author": "Your Name",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.17.1"
+  },
+  "devDependencies": {
+    "jest": "^27.0.6"
+  }
+}
